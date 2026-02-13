@@ -1,4 +1,4 @@
-# 🚀 Strategia SEO: Punto Indipendenza
+# Strategia SEO: Punto Indipendenza
 
 Questo repository contiene la pianificazione dei contenuti basata su keyword a bassa competizione, ottimizzate per ottenere un posizionamento rapido sui motori di ricerca attraverso una strategia di nicchia.
 
